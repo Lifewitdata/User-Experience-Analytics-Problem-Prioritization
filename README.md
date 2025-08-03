@@ -1,4 +1,3 @@
-# User-Experience-Analytics-Problem-Prioritization
 # User Experience Analytics & Problem Prioritization
 
 ## Project Overview
